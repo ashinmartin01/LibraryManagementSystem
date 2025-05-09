@@ -1,0 +1,7 @@
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\ashin\OneDrive\Asztali gép\Infó\Programozás\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
